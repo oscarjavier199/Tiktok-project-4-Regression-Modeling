@@ -1,4 +1,4 @@
-# TikTok Project IV: Regression modeling**
+# **TikTok Project IV: Regression modeling**
 
 ## Overview
 
